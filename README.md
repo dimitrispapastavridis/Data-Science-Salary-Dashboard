@@ -3,7 +3,7 @@
 ## 🛠 Features
 
 - Dynamic Dashboard built in Excel for easy exploration of salary insights.
-- Comparison of different job roles, including Data Analyst, Data Scientist, Machine Learning Engineer, and more.
+- Comparison of different job roles, including Data Analyst, Data Scientist, and more.
 - Filters for job title, country, and job type to customize the analysis.
 - Key metrics displayed, such as median salary, top job platform, and job count.
 - Graphical representation of salary distributions across different job types and regions.
