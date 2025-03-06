@@ -1,4 +1,4 @@
-📊 Excel Salary Dashboard. This project is based on [Excel for Data Analytics - Full Course for Beginners](https://youtu.be/pCJ15nGFgVg) by Luke Barousse. It visualizes salary data for various roles in the field of Data Science.
+📊 Excel Salary Dashboard. This project is based on [Excel for Data Analytics - Full Course for Beginners](https://youtu.be/pCJ15nGFgVg) by Luke Barousse. This interactive Excel dashboard provides insights into salary trends across various Data Science roles.
 
 ## 🛠 Features
 
